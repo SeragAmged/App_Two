@@ -33,6 +33,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public double hello(double a) {
-        return a + 90;
+        return a + 70;
     }
 }
