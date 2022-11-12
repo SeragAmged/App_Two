@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public int counter(int num){
-        return num*4;
+        return num*5;
     }
 }
