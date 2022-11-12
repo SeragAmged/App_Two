@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         return a + 26;
     }
 
-    public double hello(double a) {
+    public double asmaa(double a) {
         return a + 70;
     }
 }
