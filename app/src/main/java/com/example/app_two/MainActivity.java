@@ -25,4 +25,6 @@ public class MainActivity extends AppCompatActivity {
     public double yesss(double a){return a+122;}
 
     public double ragab(double a){return a+26;}
+
+    public double hello(double a){return a+90;}
 }
