@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     public int counter(int num){
         return num*52;
     }
+
+    public double no(double a , double b){
+        return a/b;
+    }
 }
