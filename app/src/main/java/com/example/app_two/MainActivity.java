@@ -22,4 +22,5 @@ public class MainActivity extends AppCompatActivity {
     public double yes(double a , double b){
         return a/b;
     }
+    public double yesss(double a){return a;}
 }
