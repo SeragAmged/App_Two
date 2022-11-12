@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
     public double no(double a , double b){
         return a/b;
     }
+
+    public double yes(double a , double b){
+        return a/b;
+    }
 }
